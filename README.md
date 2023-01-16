@@ -20,7 +20,7 @@
 - MongoDB
 - WhatsApp API
 
-# AWS Lambda Dunction
+# AWS Lambda Function
 ![code](src/code.PNG)
 ![lambdavariables](src/lambdavariables.PNG)
 
