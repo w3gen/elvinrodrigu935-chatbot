@@ -21,11 +21,11 @@
 - WhatsApp API
 
 # AWS Lambda Dunction
-![Logo](src/code.PNG)
-![Logo](src/lambdavariables.PNG)
+![code](src/code.PNG)
+![lambdavariables](src/lambdavariables.PNG)
 
 # Meta Account configurations
-![Logo](src/metaaccount.PNG)
+![metaaccount](src/metaaccount.PNG)
 
 ## License
 
