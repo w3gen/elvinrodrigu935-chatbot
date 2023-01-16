@@ -20,6 +20,13 @@
 - MongoDB
 - WhatsApp API
 
+# AWS Lambda Dunction
+![Logo](src/code.PNG)
+![Logo](src/lambda variables.PNG)
+
+# Meta Account configurations
+![Logo](src/meta account.PNG)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
