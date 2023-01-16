@@ -22,10 +22,10 @@
 
 # AWS Lambda Dunction
 ![Logo](src/code.PNG)
-![Logo](src/lambda variables.PNG)
+![Logo](src/lambdavariables.PNG)
 
 # Meta Account configurations
-![Logo](src/meta account.PNG)
+![Logo](src/metaaccount.PNG)
 
 ## License
 
